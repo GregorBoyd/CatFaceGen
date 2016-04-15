@@ -1,4 +1,3 @@
-
 def drawcat(filename="cat"):
 
     from PIL import Image,ImageDraw
@@ -92,4 +91,3 @@ def drawcat(filename="cat"):
 
 if __name__ == "__main__":
     drawcat()
-
