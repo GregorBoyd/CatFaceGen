@@ -90,4 +90,4 @@ def drawcat(filename="cat"):
     img.save(filename + ".png", "PNG")
 
 if __name__ == "__main__":
-    drawcat()
+    drawcat(filename="cat")
